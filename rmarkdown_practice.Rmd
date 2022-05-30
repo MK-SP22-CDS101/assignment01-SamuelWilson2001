@@ -35,7 +35,7 @@ Section K01
 
 # Course Goals
 
-* By the end of the course, studetns will be able to:
+* By the end of the course, students will be able to:
   * My GitHub username is: *SamuelWilson2001*
 * Obtain, clean, transform, and visualize a dataset using the R programming language.
 * Interpret and predict dataset trends using statistical inference and models.
